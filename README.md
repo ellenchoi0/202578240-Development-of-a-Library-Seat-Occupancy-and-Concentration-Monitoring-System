@@ -43,7 +43,7 @@
 - 가상환경 켜기
 source venv/bin/activate
 
--필수 라이브러리 설치
+- 필수 라이브러리 설치
 pip install opencv-python flask gpiozero lgpio
 
 ### 2. 서버 실행
